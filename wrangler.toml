@@ -1,0 +1,6 @@
+name = "linktree"
+type = "webpack"
+account_id = "9de038a9e6fb9aef892b0c62fcbdd13d"
+workers_dev = true
+route = ""
+zone_id = ""
